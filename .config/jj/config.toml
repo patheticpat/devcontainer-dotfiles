@@ -1,0 +1,7 @@
+[user]
+name = "Michael Kaiser"
+email = "michael.kaiser@kiteit.de"
+
+[ui]
+default-command = "log"
+editor = "vim"
